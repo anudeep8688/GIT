@@ -1,6 +1,2 @@
 git add .
 git commit -m "rebase"
-gi diff
-git push origin -d branch name
-git pull --rebase
-git revert cid
